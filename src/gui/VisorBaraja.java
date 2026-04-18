@@ -7,7 +7,9 @@ import java.awt.*;
 import java.io.File;
 
 /**
- * @author  Vinnigit config --global user.name "Tu Nombre Real"
+ * @author  Vinni
+ * git config --global user.name "Vinni"
+ * git config --global user.email "Vinni9gmail.com"
  */
 public class VisorBaraja extends JFrame {
 
